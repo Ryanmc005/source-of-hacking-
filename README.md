@@ -40,3 +40,4 @@ tools , guides , and tools  for useful hacking information
 - i want to refer you back to this video becasue it will teach you all the basics of how to use kali linux to its full extent : https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=8997s
 
 - this is everything you will need up to date , if you have any questions feel free to ask .
+  discord : ATHENA#4513
